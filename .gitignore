@@ -22,6 +22,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+src/logo.svg
+src/App.test.js
+src/reportWebVitals.js
+src/setupTests.js
+public/logo192.png
+public/logo512.png
+public/manifest.json
+public/robots.txt 
+
 # Env files
 .env
 .env.local
